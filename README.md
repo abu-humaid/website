@@ -12,3 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, nemo, adipisc
 - CRUD 
 
 [Our Facebook Account](https://facebook.com/freelqanc47)
+[Twitter](https://facebook.com/freelqanc47)
